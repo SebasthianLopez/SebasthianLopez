@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+¡Hola! 👋 Soy Sebasthian Lopez<br>Desarrollador de Software | 20 años | Asunción, Paraguay 🇵🇾<br><br>Soy un programador junior con una sed insaciable por aprender, resolver problemas complejos y destacar en el mundo tecnológico. No me conformo con que el código "solo funcione"; me apasiona entender el porqué, refactorizar para aplicar buenas prácticas y construir arquitecturas sólidas. Estoy en la búsqueda constante de nuevos desafíos, proyectos colaborativos y oportunidades laborales donde pueda aportar valor desde el primer día.<br><br>🛠️ Mi Arsenal Tecnológico:<br><br>Lenguajes y Backend: Desarrollo principalmente en Python. Tengo experiencia sólida trabajando tanto con programación funcional como con Programación Orientada a Objetos, transformando y optimizando bases de código.<br><br>Sistemas y Redes: Me fascina la arquitectura cliente-servidor. He construido aplicaciones de chat en tiempo real utilizando sockets y estoy familiarizado con el diseño de servicios distribuidos, como sistemas de registro (logging) centralizados.<br><br>Algoritmos y Lógica: Capacidad para implementar lógica compleja, como el uso de algoritmos de búsqueda y trazado de rutas (Dijkstra, Breadth-First Search) aplicados a matrices y entornos espaciales.<br><br>Datos y Web Scraping: Experiencia extrayendo y procesando información de la web utilizando librerías como requests y BeautifulSoup, además de diseñar e integrar bases de datos mediante consultas SQL.<br><br>Desarrollo de Videojuegos: Creador en Godot Engine. Disfruto programando lógicas de movimiento, animaciones y mecánicas de juego, como lo hice colaborando en el proyecto de equipo "IceStalker".<br><br>🚀 Lo que me define:<br><br>Trabajo en Equipo: Sé lo que significa coordinar roles, integrar código y colaborar estrechamente con otros desarrolladores para llevar un proyecto a la meta.<br><br>Defensa y Comunicación: Me siento cómodo explicando mi código. Tengo experiencia preparando presentaciones y realizando sesiones de live coding para defender la lógica detrás de mis aplicaciones.<br><br>Proactividad: Siempre dispuesto a ensuciarme las manos con nuevas tecnologías y aportar una energía fresca y competitiva a cualquier equipo de trabajo.
 
-<!--
-**SebasthianLopez/SebasthianLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lopezsebasthian?igsh=ZDUzZHpzd2FlNXZr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sebasthian-lopez-5062a6382/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sebalopez242000@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SebasthianLopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SebasthianLopez&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasthianLopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SebasthianLopez&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
