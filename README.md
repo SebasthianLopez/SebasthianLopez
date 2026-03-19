@@ -1,5 +1,27 @@
-# 💫 About Me:
-¡Hola! 👋 Soy Sebasthian Lopez<br>Desarrollador de Software | 20 años | Asunción, Paraguay 🇵🇾<br><br>Soy un programador junior con una sed insaciable por aprender, resolver problemas complejos y destacar en el mundo tecnológico. No me conformo con que el código "solo funcione"; me apasiona entender el porqué, refactorizar para aplicar buenas prácticas y construir arquitecturas sólidas. Estoy en la búsqueda constante de nuevos desafíos, proyectos colaborativos y oportunidades laborales donde pueda aportar valor desde el primer día.<br><br>🛠️ Mi Arsenal Tecnológico:<br><br>Lenguajes y Backend: Desarrollo principalmente en Python. Tengo experiencia sólida trabajando tanto con programación funcional como con Programación Orientada a Objetos, transformando y optimizando bases de código.<br><br>Sistemas y Redes: Me fascina la arquitectura cliente-servidor. He construido aplicaciones de chat en tiempo real utilizando sockets y estoy familiarizado con el diseño de servicios distribuidos, como sistemas de registro (logging) centralizados.<br><br>Algoritmos y Lógica: Capacidad para implementar lógica compleja, como el uso de algoritmos de búsqueda y trazado de rutas (Dijkstra, Breadth-First Search) aplicados a matrices y entornos espaciales.<br><br>Datos y Web Scraping: Experiencia extrayendo y procesando información de la web utilizando librerías como requests y BeautifulSoup, además de diseñar e integrar bases de datos mediante consultas SQL.<br><br>Desarrollo de Videojuegos: Creador en Godot Engine. Disfruto programando lógicas de movimiento, animaciones y mecánicas de juego, como lo hice colaborando en el proyecto de equipo "IceStalker".<br><br>🚀 Lo que me define:<br><br>Trabajo en Equipo: Sé lo que significa coordinar roles, integrar código y colaborar estrechamente con otros desarrolladores para llevar un proyecto a la meta.<br><br>Defensa y Comunicación: Me siento cómodo explicando mi código. Tengo experiencia preparando presentaciones y realizando sesiones de live coding para defender la lógica detrás de mis aplicaciones.<br><br>Proactividad: Siempre dispuesto a ensuciarme las manos con nuevas tecnologías y aportar una energía fresca y competitiva a cualquier equipo de trabajo.
+Hi there! 👋 I'm Sebasthian Lopez
+Software Developer | 20 y/o | Asunción, Paraguay 🇵🇾
+
+I am a junior programmer with an insatiable thirst for learning, solving complex problems, and standing out in the tech world. I don't settle for code that "just works"; I am passionate about understanding the why, refactoring to apply best practices, and building solid architectures. I am constantly seeking new challenges, collaborative projects, and job opportunities where I can add value from day one.
+
+🛠️ My Tech Arsenal:
+
+Languages & Backend: I develop mainly in Python. I have solid experience working with both functional and Object-Oriented Programming (OOP), transforming and optimizing codebases.
+
+Systems & Networks: I am fascinated by client-server architecture. I have built real-time chat applications using sockets and I'm familiar with designing distributed services, such as centralized logging systems.
+
+Algorithms & Logic: Capable of implementing complex logic, such as search and pathfinding algorithms (Dijkstra, Breadth-First Search) applied to matrices and spatial environments.
+
+Data & Web Scraping: Experience extracting and processing web data using libraries like requests and BeautifulSoup, as well as designing and integrating databases through SQL queries.
+
+Game Development: Creator in Godot Engine. I enjoy programming movement logic, animations, and game mechanics, just as I did while collaborating on the team project "IceStalker".
+
+🚀 What Defines Me:
+
+Teamwork: I know what it takes to coordinate roles, integrate code, and collaborate closely with other developers to get a project across the finish line.
+
+Communication & Code Defense: I am highly comfortable explaining my code. I have experience preparing presentations and conducting live coding sessions to defend the logic behind my applications.
+
+Proactivity: Always ready to get my hands dirty with new technologies and bring fresh, competitive energy to any team
 
 
 ## 🌐 Socials:
