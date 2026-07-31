@@ -1,8 +1,8 @@
 # Hi, I'm Sebasthian Lopez 👋
 
-**Full-Stack Developer & Founder of [Taskflow](https://nexus-studio-oq1y.onrender.com)** · Asunción, Paraguay 🇵🇾
+**Full-Stack Developer** · Asunción, Paraguay 🇵🇾
 
-I build and ship real software for real clients — desktop apps, web apps, AI agents, and business automation. I run **Northa**, a one-person studio where I take products end-to-end: from talking to a non-technical client on WhatsApp, to architecture, to a signed installer or a deployed site in production. I don't stop at "it works" — I care about the *why*, clean architecture, and shipping something people actually use every day.
+I build and ship real software for real clients — desktop apps, web apps, AI agents, and business automation. I run several independent products end-to-end, from talking to a non-technical client on WhatsApp, to architecture, to a signed installer or a deployed site in production. I don't stop at "it works" — I care about the *why*, clean architecture, and shipping something people actually use every day.
 
 I'm also big on **AI agents in production** — I completed Anthropic Academy's full program (Claude, Claude Code, MCP, agent design) and apply it to real workflows, from an automated B2B prospecting agent to my own dev process.
 
@@ -12,9 +12,9 @@ I'm also big on **AI agents in production** — I completed Anthropic Academy's 
 
 | Project | What it is | Stack |
 |---|---|---|
-| **TaskFlow** (Northa) | Desktop productivity app — tasks, weekly goals, streaks — with integrated payments (LemonSqueezy + Pagopar). | Tauri · React · TypeScript · Node.js · Supabase |
+| **TaskFlow** | Desktop productivity app — tasks, weekly goals, streaks — with integrated payments (LemonSqueezy + Pagopar). | Tauri · React · TypeScript · Node.js · Supabase |
+| **Gosoft** | Payroll & HR system for a garment manufacturing client — attendance, salary liquidation, IPS compliance. Installed app + cloud sync. | React · TypeScript · Electron · Supabase |
 | **Pronta Facturación** | Desktop billing app in daily production use by an SME. Auto-updating installer, single-instance control, and encrypted cloud backups via serverless functions. | Electron · Node.js · SQLite · Supabase |
-| **Northa – SIFEN 2026** | Turnkey electronic-invoicing service + B2B outreach engine: prospect data-enrichment pipelines and automated, rate-limited WhatsApp outreach. Site live in production. | Node.js · whatsapp-web.js · Render |
 | **Prospector B2B** | AI agent that finds local businesses without a website and reaches out automatically — Claude for reasoning, Google Maps for discovery, WhatsApp for contact. | Node.js · Claude API (Anthropic) · Google Maps · Supabase |
 | **[Seven Coffee](https://sevencoffe.netlify.app)** | Mobile-first landing + QR digital menu for a specialty café, shipped with a Meta Ads campaign. Live. | HTML · CSS · JS · Meta Pixel |
 | **Fotonika** | Intelligent visual assistant for visually-impaired users — scans products, speaks results out loud, and finds nearby supermarkets. | JavaScript · Voice APIs |
