@@ -1,6 +1,6 @@
 # Hi, I'm Sebasthian Lopez 👋
 
-**Full-Stack Developer & Founder of [Northa](https://nexus-studio-oq1y.onrender.com)** · Asunción, Paraguay 🇵🇾
+**Full-Stack Developer & Founder of [Taskflow](https://nexus-studio-oq1y.onrender.com)** · Asunción, Paraguay 🇵🇾
 
 I build and ship real software for real clients — desktop apps, web apps, AI agents, and business automation. I run **Northa**, a one-person studio where I take products end-to-end: from talking to a non-technical client on WhatsApp, to architecture, to a signed installer or a deployed site in production. I don't stop at "it works" — I care about the *why*, clean architecture, and shipping something people actually use every day.
 
